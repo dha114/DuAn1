@@ -1,0 +1,64 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, sans-serif;
+  line-height: 1.8;
+  font-size: 20px;
+}
+div {
+  background-color: rgb(248 249 250);
+  padding: 0px 250px 20px;
+}
+main {
+  background-color: white;
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0px -1px 10px rgba(0, 0, 0, 0.5);
+  box-shadow: -1px 0px 10px rgba(0, 0, 0, 0.5);
+}
+h2 {
+  color: hsl(191.43deg 100% 20.59%);
+}
+img {
+  width: 100%;
+}
+header {
+  background-color: hsl(191.43deg 100% 20.59%);
+  color: white;
+  text-align: center;
+  padding: 20px 10px;
+}
+
+section {
+  background-color: hsl(192deg 55.56% 96.47%);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: -6px 0px hsl(191.43deg 100% 20.59%);
+}
+table {
+  width: 100%;
+  background-color: #fff;
+  text-align: center;
+  margin-top: 10px;
+}
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: center;
+}
+footer {
+  background-color: hsl(191.43deg 100% 20.59%);
+  color: #fff;
+  text-align: center;
+  padding: 20px 10px;
+}
+#chu {
+  color: hsl(191.43deg 100% 20.59%);
+}
+#nen {
+  background-color: hsl(191.43deg 100% 20.59%);
+  color: #fff;
+}
+a {
+  color: red;
+}
